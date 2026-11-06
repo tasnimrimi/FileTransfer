@@ -40,12 +40,6 @@ No account, tracking or cloud file storage is required. GitHub Pages serves this
 
 Read the [privacy and connection details](https://tasnimrimi.github.io/FileTransfer/privacy.html).
 
-## About this repository
-
-This repository contains the public phone-page files for the published **PocketDrop 0.8.15** extension and this README. It does not contain the extension’s development project or unreleased features. Install the extension through the Chrome Web Store; downloading this repository is not an extension installation.
-
-The phone page is served from `main` → `/docs` at its existing address. Browser-delivered webpage files are publicly inspectable.
-
 ## Support
 
 For help, email [tasnim454247734@gmail.com](mailto:tasnim454247734@gmail.com). Include your device, browser and error message. Do not share private files or active pairing links.
