@@ -1,0 +1,19 @@
+# Allow only the reviewed published phone-page files.
+/*
+!/.gitignore
+!/docs/
+/docs/*
+!/docs/icons/
+/docs/icons/*
+!/docs/.nojekyll
+!/docs/THIRD-PARTY.txt
+!/docs/app.css
+!/docs/app.js
+!/docs/icons/icon-128.png
+!/docs/icons/icon-16.png
+!/docs/icons/icon-32.png
+!/docs/icons/icon-48.png
+!/docs/icons/logo.svg
+!/docs/index.html
+!/docs/privacy.html
+!/docs/theme.js
