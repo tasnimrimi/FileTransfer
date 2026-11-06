@@ -1,6 +1,7 @@
 # Allow only the reviewed published phone-page files.
 /*
 !/.gitignore
+!/README.md
 !/docs/
 /docs/*
 !/docs/icons/
